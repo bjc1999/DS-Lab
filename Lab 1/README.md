@@ -7,3 +7,6 @@ FileIO:
 4. If didn't wrap with buffered means directly reading from disk.
 5. Both have pros and cons.
 6. Extra explanation for FileIO comparison: [difference-between-bufferedreader-and-filereader-in-java (GeeksforGeeks)](https://www.geeksforgeeks.org/difference-between-bufferedreader-and-filereader-in-java/)
+\
+String split:
+1. Regex pattern list: [Pattern format (JavaDoc)](https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html)
