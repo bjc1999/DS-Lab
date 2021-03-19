@@ -11,6 +11,7 @@ public static void splitStringBy(String filename, String pattern) {
     // split every line of text by pattern specified in argument
     // this loop is known as 'for each' loop, its usage is the same as normal
     // for loop, just the syntax is different, and it doesn't need any counter
+    // for more information refer Lab 1 README under Q2
     for(String str: strs) {
 
         // split a line of text by pattern
