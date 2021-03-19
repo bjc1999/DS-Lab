@@ -16,6 +16,8 @@ Other files are extra resources for additional knowledge.
 ## Q2
 ### String split
 1. Regex pattern list: [Pattern format (JavaDoc)](https://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html)
+### Different types of looping methods in Java
+1. Resources: [Java Loops (GeeksforGeeks)](https://www.geeksforgeeks.org/loops-in-java/)
 
 ## Q4
 ### Date formatting
