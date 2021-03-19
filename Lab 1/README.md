@@ -1,5 +1,5 @@
 # Lab 1
-Here is some resources related to concept used in Lab 1. \
+Here are some resources related to concept used in Lab 1. \
 `Lab1.java` contains some concepts you might need to answer your lab questions.
 Other files are extra resources for additional knowledge.
 
