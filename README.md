@@ -5,6 +5,8 @@ Up to week 4 (Lab 3)
 1. For the `extra-question.md` in `lab 2`, due to several reasons (question not clear, haven't learn `linkedlist`), I reconstruct the question a bit and put it in `lab 3`, `RandomGenerator.ipynb` file.
 2. `QnA.md` for `lab 2` I don't have enough time to update so maybe I will update in future.
 3. Wish you all good luck for this week **lab test**!
+4. Added a new `discussion.md` for lab 3 questions.
+5. Added a new challenge question `Set-Q.ipynb`.
 ---
 ## About
 The main purpose of this repo is to let you explore more aside from what you learnt in DS class.\
