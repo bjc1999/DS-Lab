@@ -1,3 +1,6 @@
+## Lab Test 1
+1. Step-by-step analysis
+
 ## Dynamic Bag
 *Modification of Lab 3 Q1*
 
