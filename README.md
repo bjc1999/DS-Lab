@@ -1,13 +1,11 @@
 # DS-Lab
 
 ## Update
-Up to week 5 (Lab 3 & 4)
-1. For the `extra-question.md` in `lab 2`, due to several reasons (question not clear, haven't learn `linkedlist`), I reconstruct the question a bit and put it in `lab 3`, `RandomGenerator.ipynb` file.
-2. `QnA.md` for `lab 2` I don't have enough time to update so maybe I will update in future.
-4. Added a new `discussion.md` for lab 3 questions.
-5. Added a new challenge question `Set-Q.ipynb`.
-6. Added code for LinkedList in Lab 4.
-7. For data structure visualization: [VisuAlgo](https://visualgo.net/en)
+Up to week 9
+1. Good luck for tomorrow lab test 2!
+2. Since the lab test 2 is about `Stack`, should you have any problem regarding `Stack` before your lab test, can raise your question here.
+3. I don't think there is enough time for us to discuss Lab 7 Queue tomorrow during lab session, so if you have any questions please also raising them here first.
+4. `Stack`'s nature is **L**ast-**I**n-**F**irst-**O**ut (LIFO) while `Queue`'s nature is **F**irst-**I**n-**F**irst-**O**ut (FIFO), there are many real world applications that are following the nature of either of them, so be sure you are familiar with `Stack` and `Queue`.
 ---
 ## About
 The main purpose of this repo is to let you explore more aside from what you learnt in DS class.\
